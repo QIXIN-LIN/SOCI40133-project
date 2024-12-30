@@ -1,4 +1,4 @@
-# Fanfiction Trends Analysis: A Participatory Culture Study (SOCI40133-project-NEW)
+# Fanfiction Trends Analysis: A Participatory Culture Study
 
 ## Motivation
 
